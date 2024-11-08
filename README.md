@@ -1,11 +1,12 @@
-# painel-gerencial-automatizado-powerBI
+# Dashboard Gerencial para Agência de Marketing Digital | Power BI
 
-Projeto do curso DNC onde foi solicitado extrair as informações, construir gráficos e organizar um dashboard gerencial contendo as informações mais relevantes para uma agência de marketing digital.
+Projeto do curso DNC onde foi solicitado extrair as informações, construir gráficos e organizar um dashboard gerencial contendo as informações mais relevantes para uma agência de marketing digital.<br>
+O objetivo do dashboard é oferece uma visão abrangente do desempenho da agência, permitindo acompanhar a evolução das vendas, identificar os principais canais de aquisição e entender o perfil do cliente
 
 ### Gráficos e cards do dashboard
 - Receita total:
   - Card que mostra a soma de todas as vendas.
-- Receite média por compra:
+- Receita média por compra:
   - Card mostrando média da receita por cada compra.
 - Total de compradores:
   - Total de usuários que compraram.
